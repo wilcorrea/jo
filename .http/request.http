@@ -1,0 +1,4 @@
+# first line (definitions)
+GET http://localhost:8080
+# headers
+Content-Type: text/html
